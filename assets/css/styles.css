@@ -1,0 +1,46 @@
+@import url(normalize.css);
+
+@font-face {
+    font-family: "old-press";
+    src: url(./font/Old-press.ttf);
+}
+
+@font-face {
+    font-family: "five-night-at-freddy's";
+    src: url(./font/Five-night-at-freddy.ttf);
+}
+
+* {
+    font-family: "five-night-at-freddy's";
+}
+
+header {
+    background-color: #090908;
+    height: 50px;
+}
+
+header nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    color: white;
+    margin-left: 100px;
+    margin-top: 16px;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #f1d911;
+    opacity: 1;
+}
+
+.logo-nav {
+    width: 38px;
+    margin-left: 68px;
+}

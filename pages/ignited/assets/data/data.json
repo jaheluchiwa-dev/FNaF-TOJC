@@ -1,0 +1,32 @@
+[
+    {
+        "animatronic": "Ignited Freddy",
+        "image": "./assets/images/ignited-animatronics/freddy.webp",
+        "description": "Ignited Freddy is a nightmarish version of Freddy Fazbear from The Joy of Creation series, first appearing in The Joy of Creation: Story Mode. He is an animatronic bear with a severely damaged and burnt appearance, featuring exposed endoskeleton parts, missing fur, and glowing white eyes. In the game, Ignited Freddy relentlessly hunts the player through dark and claustrophobic environments, adding to the intense and terrifying atmosphere. Players must use stealth and quick reflexes to evade his pursuit while completing objectives to progress through the haunting memories. Ignited Freddy's role significantly heightens the game's challenge, creating a constant sense of dread and urgency."
+    },
+    {
+        "animatronic": "Ignited Bonnie",
+        "image": "./assets/images/ignited-animatronics/bonnie.webp",
+        "description": "Ignited Bonnie is a menacing rendition of the classic animatronic Bonnie from The Joy of Creation series. Resembling a nightmarish version of its former self, Ignited Bonnie appears heavily damaged and charred, with exposed endoskeleton parts protruding through torn and burnt fur. Its eyes glow with an eerie intensity, adding to its terrifying presence in the game. Throughout the dark and foreboding environments, Ignited Bonnie relentlessly pursues the player, navigating through shadows with haunting agility. Players must rely on stealth and swift reactions to evade this relentless foe while striving to accomplish objectives amidst the unsettling memories. Ignited Bonnie's presence intensifies the game's atmosphere, instilling a constant sense of fear and the need for strategic evasion."
+    },
+    {
+        "animatronic": "Ignited Chica",
+        "image": "./assets/images/ignited-animatronics/chica.webp",
+        "description": "Ignited Chica embodies a nightmarish transformation of the beloved animatronic Chica from The Joy of Creation series. This haunting version of Chica appears severely scarred and burnt, with visible endoskeleton parts exposed through tattered and singed feathers. Glowing white eyes pierce through the darkness, intensifying her eerie presence as she stalks the player relentlessly. Navigating through claustrophobic and ominous environments, Ignited Chica adds to the game's chilling atmosphere, creating a sense of constant peril. Players must employ stealth and quick thinking to evade her pursuit while accomplishing objectives amidst the unsettling memories that haunt the gameplay. Ignited Chica's role heightens the game's tension, ensuring an intense and terrifying experience throughout."
+    },
+    {
+        "animatronic": "Ignited Foxy",
+        "image": "./assets/images/ignited-animatronics/foxy.webp",
+        "description": "Ignited Foxy emerges as a terrifying incarnation of the beloved pirate animatronic from The Joy of Creation series. Bearing the scars of fire and destruction, Ignited Foxy's once vibrant colors are replaced with a charred and menacing appearance. His endoskeleton is exposed in various places, adding to his unsettling presence. Glowing white eyes pierce through the darkness, enhancing the fear-inducing atmosphere as he prowls through dimly lit and claustrophobic environments. Players must rely on stealth and quick reflexes to evade Ignited Foxy's relentless pursuit, navigating through haunting memories while completing objectives under constant threat. Ignited Foxy's role intensifies the game's challenge, ensuring a heart-pounding experience filled with dread and suspense."
+    },
+    {
+        "animatronic": "Ignited Golden Freddy",
+        "image": "./assets/images/ignited-animatronics/golden-freddy.png",
+        "description": "Golden Freddy, in The Joy of Creation series, appears as a haunting and mysterious version of the iconic animatronic from the Five Nights at Freddy's universe. This rendition of Golden Freddy exudes an otherworldly aura, with a golden hue that seems to emit a faint, eerie glow in the shadows. His appearance is distorted and surreal, featuring a ghostly, translucent quality that gives glimpses of an underlying endoskeleton. Glowing white eyes peer out from the darkness, adding to the unsettling presence Golden Freddy brings to the game's environment. In the game, encountering Golden Freddy often signifies a moment of intense dread and fear, as players must navigate through unpredictable and harrowing situations. His role in The Joy of Creation series heightens the atmosphere of terror, contributing to a spine-chilling experience where players must use caution and wit to survive."
+    },
+    {
+        "animatronic": "Creation",
+        "image": "./assets/images/ignited-animatronics/creation.png",
+        "description": "Creation in The Joy of Creation series refers to the central theme of the game where various animatronics, including Ignited Freddy, Ignited Bonnie, Ignited Chica, Ignited Foxy, and others, are reimagined in a nightmarish and terrifying form. These creations embody distorted versions of their original characters, featuring damaged appearances, exposed endoskeleton parts, and glowing eyes. Each creation relentlessly hunts the player through dark and claustrophobic environments, creating a sense of fear and urgency. The game challenges players to use stealth and quick reflexes to evade these relentless pursuers while completing objectives to progress through the haunting memories that confront them. Creation in The Joy of Creation series thus encompasses the terrifying transformations and the intense gameplay experience it offers."
+    }
+]
